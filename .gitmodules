@@ -10,3 +10,6 @@
 [submodule "kaicode/kaicode-frontend"]
 	path = kaicode/kaicode-frontend
 	url = git@github.com:devyk100/kaicode-frontend.git
+[submodule "riotalk/riotalk-android"]
+	path = riotalk/riotalk-android
+	url = git@github.com:devyk100/riotalk-android.git
