@@ -4,6 +4,9 @@
 [submodule "kaicode/kaicode-backend"]
 	path = kaicode/kaicode-backend
 	url = git@github.com:devyk100/kaicode-backend.git
+[submodule "riotalk/riotalk-nextjs"]
+	path = riotalk/riotalk-nextjs
+	url = git@github.com:devyk100/riotalk-nextjs.git
 [submodule "kaicode/kaicode-frontend"]
 	path = kaicode/kaicode-frontend
-	url = https://github.com/devyk100/kaicode-frontend
+	url = git@github.com:devyk100/kaicode-frontend.git
