@@ -1,3 +1,9 @@
 [submodule "blender-mcp"]
 	path = blender-mcp
 	url = git@github.com:devyk100/blender-mcp.git
+[submodule "kaicode/kaicode-backend"]
+	path = kaicode/kaicode-backend
+	url = git@github.com:devyk100/kaicode-backend.git
+[submodule "kaicode/kaicode-frontend"]
+	path = kaicode/kaicode-frontend
+	url = https://github.com/devyk100/kaicode-frontend
